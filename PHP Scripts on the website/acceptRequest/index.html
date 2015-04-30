@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Automated Request System | OctPP</title>
+	</head>
+	
+	<body>
+		<h1>Accept Request</h1>
+		<form name="request" action="request_process.php" method="post">
+			<table >
+				<tr>
+					<td>Username accepting request:</td>
+					<td><input type="text" name="uname1" /></td>
+				</tr>
+				<tr>
+					<td>Username that sent original request:</td>
+					<td><input type="text" name="uname2" /></td>
+				</tr>
+				<tr>
+					<td>Parameter:</td>
+					<td><input type="text" name="param" /></td>
+				</tr>
+			</table>
+			<input type="submit" value="Accept!" />
+		</form>
+	</body>
+</html>
