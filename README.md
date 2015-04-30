@@ -1,6 +1,8 @@
 # OCTPP-Chess-2015
 A complete game of chess with online and multiplayer capabilities. This started off as a class 12 Computer Science project, and rapidly grew to its current size!
 
+Official website: http://www.octpp.tk/
+
 #### Prerequisites for compiling source code
 - Windows 7 and above
 - Microsoft Visual Studio 2010 or later
