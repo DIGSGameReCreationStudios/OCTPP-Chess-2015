@@ -5,7 +5,7 @@ Official website: http://www.octpp.tk/
 
 #### Prerequisites for compiling source code
 - Windows 7 and above
-- Microsoft Visual Studio 2010 or later
+- Microsoft Visual Studio 2013 or later
 
 #### To install wxWidgets
 - Follow the instructions on http://liuxingguang.blogspot.in/2014/02/using-wxwidgets-30-in-microsoft-visual.html
